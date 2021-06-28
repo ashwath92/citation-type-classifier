@@ -16,10 +16,11 @@ This repository contains the [training](train-500-sw.xlsx) and [test](test-100-n
 
 ## Contact & Reference
 The system has been designed and implemented by Michael Färber and Ashwath Sampath. 
-## NOTE:
+
+### NOTE:
 This is a duplicate of the repository at https://github.com/michaelfaerber/citation-type-classifier. 
 
-If you use our code or would like to referene our work, please cite our paper as follows:
+If you use our code or would like to reference our work, please cite our paper as follows:
 ```
 @inproceedings{Faerber2019TPDL,
   author    = {Michael F{\"{a}}rber and Ashwath Sampath},
